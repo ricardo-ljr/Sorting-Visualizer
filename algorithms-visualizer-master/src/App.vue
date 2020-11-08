@@ -3,7 +3,11 @@
     <div class="page-container">
       <HomeLayout v-bind:title="title" />
       <ul class="gh-link">
-        <a href="#" target="_blank">Github Link</a>
+        <a
+          href="https://github.com/ricardo-ljr/Sorting-Visualizer"
+          target="_blank"
+          >Github Link</a
+        >
       </ul>
     </div>
   </div>
